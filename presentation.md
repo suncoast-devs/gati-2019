@@ -1,3 +1,7 @@
+footer: Suncoast Developers Guild
+build-lists: true
+slide-transition: true
+
 # [fit] Jason L Perry
 ## CEO @ Suncoast Developers Guild
 
@@ -28,14 +32,17 @@
 ![](X39.81.03.jpg)
 
 ---
+[.background-color: #63CCCB]
 
 ![fit](web.gif)
 
 ---
+[.background-color: #1F660E]
 
 ![fit](mario.gif)
 
 ---
+[.background-color: #ffffff]
 
 ![fit](phone.gif)
 
